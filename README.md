@@ -9,4 +9,5 @@
 
 `MoveMdToBlog`：在配置好typora上传规则之后后面更新笔记就只需要使用这个即可
 
->`MoveMdToBlog`还需要过滤掉已经处理过的title
+>~~`MoveMdToBlog`还需要过滤掉已经处理过的title~~
+>考虑更改title
